@@ -1,3 +1,2 @@
-USB\Vid_19D2&Pid_2000
-
-No ZTE CDROM found !
+Часть 1
+Для ветки Div
